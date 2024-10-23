@@ -1,13 +1,5 @@
-# The-stupidest-language
-## IMPORTANT
-- If you want autistic level 100.
-- Have brain tumor.
-  
-<p align="center">
-    <b><i>Then this is the right language for you <3</i></b>
-</p>
-
-# Syntaxes of this bs
+# The-stupidest-language  
+# Syntax of GO
 <p>If you have</p>
 
   ```

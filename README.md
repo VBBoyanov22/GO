@@ -20,7 +20,7 @@
       fmt.Print("Hi"}
     }
 ```
-<p>The error here is the enter between the closing bracket and else. Isn't that bs?</p>
+<p>The error here is the enter between the closing bracket and else.</p>
 
 
 # Installation
